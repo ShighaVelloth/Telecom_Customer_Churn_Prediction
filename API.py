@@ -7,7 +7,7 @@ import joblib
 from typing import Optional
 
 # Load the trained model
-MODEL_PATH = "C:/Users/ragesh/OneDrive/Desktop/PROJECTS/logistic_regression_model.pkl"
+MODEL_PATH = "C:/Users/shigha/OneDrive/Desktop/PROJECTS/logistic_regression_model.pkl"
 
 def load_model():
     return joblib.load(MODEL_PATH)
