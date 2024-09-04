@@ -6,7 +6,7 @@ from sklearn.preprocessing import LabelEncoder
 import joblib
 
 # Path of the trained model
-MODEL_PATH = "C:/Users/ragesh/OneDrive/Desktop/PROJECTS/logistic_regression_model.pkl"
+MODEL_PATH = "C:/Users/shigha/OneDrive/Desktop/PROJECTS/logistic_regression_model.pkl"
 
 # Load the trained model
 def load_model():
